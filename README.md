@@ -2,7 +2,7 @@ CleareNova ✨
 
 
 
-An enhanced batch script to optimize Windows with targeted cache cleanup 🚀
+A lightweight batch script to optimize Windows with targeted cache cleanup 🚀
 
 
 
@@ -10,7 +10,7 @@ An enhanced batch script to optimize Windows with targeted cache cleanup 🚀
 
 🌟 About CleareNova
 
-CleareNova is a powerful fork of MilesthoN's cleare, reengineered by Luc6i to deliver a lightweight, efficient solution for Windows optimization. This batch script focuses on clearing program-specific caches, boosting system performance without touching sensitive data like log-in sessions or network settings. Actively maintained with frequent updates, CleareNova is designed for simplicity and speed. 🛠️
+CleareNova is an advanced fork of MilesthoN's cleare, reengineered by Luc6i to deliver a streamlined, efficient solution for Windows optimization. This batch script focuses on clearing program-specific caches, enhancing system performance without affecting sensitive data like log-in sessions or network settings. With improved progress tracking, size reporting, and a modular structure, CleareNova is actively maintained with frequent updates for maximum compatibility and performance. 🛠️
 
 
 
@@ -20,19 +20,31 @@ CleareNova is a powerful fork of MilesthoN's cleare, reengineered by Luc6i to de
 
 
 
-Targeted Cache Cleanup: Safely removes program caches without affecting user data or system stability.
+Targeted Cache Cleanup: Safely removes program caches without impacting user data or system stability.
 
 
 
-Lightweight & Fast: Optimized for minimal resource usage and quick execution.
+Enhanced Progress Reporting: Displays [Task X/Y] Processing: Task Name with descriptive task info for clear tracking.
 
 
 
-Frequent Updates: Continuously improved with new features and compatibility enhancements.
+Size Calculation: Estimates file sizes before deletion (in Bytes, MB, KB), tracks running total, and provides a final summary of deleted data.
 
 
 
-User-Friendly: Easy to use, requiring no complex setup.
+Improved Structure: Utilizes a runTask macro and subroutines (:GetSizeAndAdd, :ShowRunningTotal) for consistent, readable code.
+
+
+
+Lightweight & Fast: Optimized for minimal resource usage and rapid execution.
+
+
+
+Frequent Updates: Continuously enhanced with new features and compatibility fixes.
+
+
+
+User-Friendly: Simple to use, with no complex setup required.
 
 🧹 Program Caches Cleared
 
@@ -226,7 +238,7 @@ Microsoft Edge
 
 
 
-Google Chrome (including Beta, Canary, Chromium)
+Google Chrome (including Beta, Canterbury, Chromium)
 
 
 
@@ -268,13 +280,59 @@ Pale Moon
 
 SageThumbs
 
+
+
+📸 Preview
+
+
+
+
+
+🚀 Getting Started
+
+
+
+
+
+Download: Grab the latest version from the releases page or click the button above.
+
+
+
+Run: Execute the batch script as an administrator on your Windows system.
+
+
+
+Optimize: Watch CleareNova streamline your system with detailed progress and size reports!
+
+
+
+Note: Administrative privileges are required for optimal performance. PowerShell is used for size calculations, so ensure it’s enabled.
+
+
+
+🤝 Contributing
+
+Contributions are welcome! Want to add features, fix bugs, or suggest improvements? Check out our Contributing Guidelines and join the CleareNova community! 🌍
+
+
+
+📬 Connect
+
+YouTube • VK • My Site
+
+
+
+Tip: Replace these links with your own socials to make CleareNova truly yours! 😊
+
+
+
 🙌 Acknowledgments
 
 
 
 
 
-Forked from MilesthoN/cleare – gratitude for the original foundation!
+Forked from MilesthoN/cleare – thank you for the original foundation!
 
 
 
