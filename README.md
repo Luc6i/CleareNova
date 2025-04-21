@@ -1,5 +1,7 @@
+              UNDER MAINTANCE
+
 <p align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=CleareNova" alt="CleareNova Logo" width="150"/>
+  <img src="" alt="CleareNova Logo" width="150"/>
 </p>
 
 # CleareNova ✨
