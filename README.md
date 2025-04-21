@@ -52,37 +52,24 @@
 
 - Microsoft Store
 - OneDrive
-- Google Drive
-- Dropbox
-- Microsoft Office
 - Nvidia (GeForce Experience)
 - Adobe
-- MaxonApp (RedGiant)
-- Skype
 - Microsoft Teams
 - Zoom
 - Telegram Desktop
 - Discord
-- VK Messenger
 - WhatsApp Desktop
-- Viber Desktop
-- ICQ Desktop
-- 1C
-- Bitrix24
-- Slack
 - OBS
 - Streamlabs
 - Twitch Studio
 - Apple (iTunes)
 - Spotify
-- Yandex.Music
 - Clipchamp
 - PowerToys
 - Screen Clip
 - Python (pip)
 - Microsoft Visual Studio
 - GitHub Desktop
-- Unity
 - Java
 - Minecraft
 - Steam
@@ -100,15 +87,41 @@
 - Yandex Browser
 - Opera
 - Mozilla (Firefox, Thunderbird)
-- Cent Browser
-- Atom
 - Vivaldi
 - Brave Browser
-- Comodo Browser
-- Pale Moon
-- SageThumbs
+- Roblox
+- Qbittorrent
+- Vortex Mod Manager
 
 ---
+
+## 🚀 Why Choose CleareNova?
+
+- **Focused Cleanup**: Prioritizes cache cleanup, avoiding broad system changes (e.g., network resets) for safety.
+- **Simplified Design**: Streamlined code removes unnecessary features like update checks for faster execution.
+- **Clear Feedback**: Progress tracking with task numbers and percentages ensures transparency.
+- **Active Development**: Regular updates keep the script compatible with the latest software and Windows versions.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Luc6i/CleareNova/blob/main/LICENSE) file for details.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+---
+
+## 📧 Contact
+
+For questions or feedback, please open an issue on the [GitHub repository](https://github.com/Luc6i/CleareNova).
+
+---
+
 
 ## 🙌 Acknowledgments
 
