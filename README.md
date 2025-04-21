@@ -1,6 +1,16 @@
-🌟 About cleare
+CleareNova ✨
 
-cleare is an enhanced fork of MilesthoN's original cleare, reimagined by Luc6i to streamline Windows performance. This batch script selectively clears program caches, boosting system efficiency without touching sensitive data like log-in sessions or network settings. With a focus on simplicity and speed, cleare is actively maintained with frequent updates to ensure compatibility and performance. 🛠️
+
+
+An enhanced batch script to optimize Windows with targeted cache cleanup 🚀
+
+
+
+
+
+🌟 About CleareNova
+
+CleareNova is a powerful fork of MilesthoN's cleare, reengineered by Luc6i to deliver a lightweight, efficient solution for Windows optimization. This batch script focuses on clearing program-specific caches, boosting system performance without touching sensitive data like log-in sessions or network settings. Actively maintained with frequent updates, CleareNova is designed for simplicity and speed. 🛠️
 
 
 
@@ -10,23 +20,23 @@ cleare is an enhanced fork of MilesthoN's original cleare, reimagined by Luc6i t
 
 
 
-Safe Cache Cleanup: Clears program-specific caches without affecting user data or system stability.
+Targeted Cache Cleanup: Safely removes program caches without affecting user data or system stability.
 
 
 
-Lightweight & Fast: Minimal resource usage, optimized for quick execution.
+Lightweight & Fast: Optimized for minimal resource usage and quick execution.
 
 
 
-Regular Updates: Continuously improved with new features and compatibility fixes.
+Frequent Updates: Continuously improved with new features and compatibility enhancements.
 
 
 
-User-Friendly: Simple to use, with no complex setup required.
+User-Friendly: Easy to use, requiring no complex setup.
 
 🧹 Program Caches Cleared
 
-cleare targets cache files for the following applications:
+CleareNova targets cache files for the following applications:
 
 
 
@@ -258,34 +268,16 @@ Pale Moon
 
 SageThumbs
 
-
-
-📸 Preview
-
-
-
-
-
-🚀 Getting Started
+🙌 Acknowledgments
 
 
 
 
 
-Download: Grab the latest version from the releases page or click the button above.
-
-
-
-Run: Execute the batch script as an administrator on your Windows system.
-
-
-
-Optimize: Let cleare work its magic to free up space and boost performance!
-
-
+Forked from MilesthoN/cleare – gratitude for the original foundation!
 
 
 
 Enhanced and maintained by Luc6i with ❤️
 
-cleare – Optimize your Windows experience!
+CleareNova – Elevate your Windows performance!
